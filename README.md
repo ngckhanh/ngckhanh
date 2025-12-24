@@ -19,8 +19,8 @@ I enjoy turning complex problems into elegant UI solutions and writing maintaina
 
 ## 📫 Connect With Me
 
-- GitHub: [github.com/your-username](https://github.com/ngckhanh)
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/tonnungockhanh0706/)
+- GitHub: [github.com/ngckhanh](https://github.com/ngckhanh)
+- LinkedIn: [linkedin.com/in/tonnungockhanh0706](https://www.linkedin.com/in/tonnungockhanh0706/)
 
 ---
 
