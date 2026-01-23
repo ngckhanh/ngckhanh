@@ -21,7 +21,7 @@ I enjoy turning complex problems into elegant UI solutions and writing maintaina
 
 - GitHub: [github.com/ngckhanh](https://github.com/ngckhanh)
 - LinkedIn: [linkedin.com/in/tonnungockhanh0706](https://www.linkedin.com/in/tonnungockhanh0706/)
-
+- Portfolio: [tonnungockhanh-portfolio.vercel.app](https://tonnungockhanh-portfolio.vercel.app)
 ---
 
 ## 🛠 Tech Stack
